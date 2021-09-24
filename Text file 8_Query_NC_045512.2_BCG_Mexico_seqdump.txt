@@ -1,0 +1,4 @@
+>CP002095.1:3744225-3744243 Mycobacterium bovis BCG str. Mexico, complete genome
+ACCCGCAATCCTGCTAACA
+>CP002095.1:1538040-1538057 Mycobacterium bovis BCG str. Mexico, complete genome
+CGTGGTGGTGACGGTAAA

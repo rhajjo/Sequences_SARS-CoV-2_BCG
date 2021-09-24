@@ -1,0 +1,115 @@
+Query: Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. Query ID: NC_045512.2 Length: 29903
+
+>Modified Microbial Nucleic Acid
+Sequence ID: FV536200.1 Length: 6021225 
+>Modified Microbial Nucleic Acid
+Sequence ID: FV536201.1 Length: 6021225  
+Range 1: 2549221 to 2549258
+
+Score:43.7 bits(47), Expect:0.32, 
+Identities:33/38(87%),  Gaps:1/38(2%), Strand: Plus/Plus
+
+Query  20494    TGTTCTGTTATTGATTTATTAC-TTGATGATTTTGTTG  20530
+                |||| |||||| ||||||||   |||||||||||||||
+Sbjct  2549221  TGTTGTGTTATAGATTTATTTGGTTGATGATTTTGTTG  2549258
+
+
+
+
+Range 2: 2463184 to 2463211
+
+Score:42.8 bits(46), Expect:0.32, 
+Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  19723    GTTGATGGTGTTGATGTAGAATTGTTTG  19750
+                |||| || ||||||||||||||||||||
+Sbjct  2463184  GTTGGTGATGTTGATGTAGAATTGTTTG  2463211
+
+
+
+
+Range 3: 4054107 to 4054144
+
+Score:42.8 bits(46), Expect:0.32, 
+Identities:32/38(84%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  20491    GTGTGTTCTGTTATTGATTTATTACTTGATGATTTTGT  20528
+                ||||||| |||| ||||||| ||  | |||||||||||
+Sbjct  4054107  GTGTGTTGTGTTGTTGATTTGTTTGTGGATGATTTTGT  4054144
+
+
+
+
+Range 4: 5577113 to 5577155
+
+Score:42.8 bits(46), Expect:0.32, 
+Identities:35/43(81%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  20488    TGTGTGTGTTCTGTTATTGATTTATTACTTGATGATTTTGTTG  20530
+                || ||||||| |||||||||||   |  |||| ||||||||||
+Sbjct  5577113  TGGGTGTGTTGTGTTATTGATTGGATTGTTGAAGATTTTGTTG  5577155
+
+
+
+
+Range 5: 2995095 to 2995139
+
+Score:41.0 bits(44), Expect:1.1, 
+Identities:38/46(83%),  Gaps:2/46(4%), Strand: Plus/Plus
+
+Query  20486    AGTGT-GTGTGTTCTGTTATTGATTTATTACTTGATGATTTTGTTG  20530
+                ||||| |||||||  ||||||||||||||  || ||| ||||| ||
+Sbjct  2995095  AGTGTTGTGTGTTTGGTTATTGATTTATT-GTTTATGGTTTTGGTG  2995139
+
+
+
+
+Range 6: 4885303 to 4885329
+
+Score:41.0 bits(44), Expect:1.1, 
+Identities:25/27(93%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  19724    TTGATGGTGTTGATGTAGAATTGTTTG  19750
+                ||||||||||||||||||| | |||||
+Sbjct  4885303  TTGATGGTGTTGATGTAGATTAGTTTG  4885329
+
+
+
+
+Range 7: 5747257 to 5747285
+
+Score:40.1 bits(43), Expect:3.9, 
+Identities:26/29(90%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  19722    AGTTGATGGTGTTGATGTAGAATTGTTTG  19750
+                ||| | |||||||||||| ||||||||||
+Sbjct  5747257  AGTGGTTGGTGTTGATGTTGAATTGTTTG  5747285
+
+
+
+
+Range 8: 3110914 to 3110934
+
+Score:39.2 bits(42), Expect:3.9, 
+Identities:21/21(100%),  Gaps:0/21(0%), Strand: Plus/Minus
+
+Query  12397    ACTCAACAACATTATCAACAA  12417
+                |||||||||||||||||||||
+Sbjct  3110934  ACTCAACAACATTATCAACAA  3110914
+
+
+
+
+Range 9: 3684302 to 3684327
+
+Score:39.2 bits(42), Expect:3.9, 
+Identities:24/26(92%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  19723    GTTGATGGTGTTGATGTAGAATTGTT  19748
+                ||||||||||||||||| || |||||
+Sbjct  3684302  GTTGATGGTGTTGATGTTGAGTTGTT  3684327
+
+
+
+
+

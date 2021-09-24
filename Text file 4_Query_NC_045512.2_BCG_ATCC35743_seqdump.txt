@@ -1,0 +1,4 @@
+>CP003494.1:3439042-3439060 Mycobacterium bovis BCG str. ATCC 35743, complete genome
+ACCCGCAATCCTGCTAACA
+>CP003494.1:1254840-1254857 Mycobacterium bovis BCG str. ATCC 35743, complete genome
+CGTGGTGGTGACGGTAAA

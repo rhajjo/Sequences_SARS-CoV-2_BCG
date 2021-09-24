@@ -1,0 +1,4 @@
+>AM412059.2:3740863-3740881 Mycobacterium bovis BCG str. Moreau RDJ complete genome
+ACCCGCAATCCTGCTAACA
+>AM412059.2:1540718-1540735 Mycobacterium bovis BCG str. Moreau RDJ complete genome
+CGTGGTGGTGACGGTAAA

@@ -1,0 +1,4 @@
+>CP003900.2:3770318-3770336 Mycobacterium bovis BCG str. Korea 1168P, complete genome
+ACCCGCAATCCTGCTAACA
+>CP003900.2:1538094-1538111 Mycobacterium bovis BCG str. Korea 1168P, complete genome
+CGTGGTGGTGACGGTAAA

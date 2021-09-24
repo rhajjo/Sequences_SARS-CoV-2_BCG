@@ -1,0 +1,2 @@
+>MT123292.2:29873-29922 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/CHN/IQTC04/2020, complete genome
+TAAGGTAGCGAAATTCCTTGTCAACTAATTATTGACCTGCACGAAAGGCG

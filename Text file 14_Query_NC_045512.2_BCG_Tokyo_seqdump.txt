@@ -1,0 +1,4 @@
+>CP014566.1:3762771-3762789 Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172 chromosome, complete genome
+ACCCGCAATCCTGCTAACA
+>AP010918.1:3762773-3762791 Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome
+ACCCGCAATCCTGCTAACA

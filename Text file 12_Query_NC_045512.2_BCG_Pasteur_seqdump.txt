@@ -1,0 +1,4 @@
+>AM408590.1:3764860-3764878 Mycobacterium bovis BCG Pasteur 1173P2, complete genome
+ACCCGCAATCCTGCTAACA
+>AM408590.1:1567761-1567778 Mycobacterium bovis BCG Pasteur 1173P2, complete genome
+CGTGGTGGTGACGGTAAA

@@ -1,0 +1,29 @@
+Query: Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome Query ID: NC_045512.2 Length: 29903
+
+>Mycobacterium bovis BCG Pasteur 1173P2, complete genome
+Sequence ID: AM408590.1 Length: 4374522 
+Range 1: 3764860 to 3764878
+
+Score:35.6 bits(38), Expect:2.6, 
+Identities:19/19(100%),  Gaps:0/19(0%), Strand: Plus/Plus
+
+Query  28715    ACCCGCAATCCTGCTAACA  28733
+                |||||||||||||||||||
+Sbjct  3764860  ACCCGCAATCCTGCTAACA  3764878
+
+
+
+
+Range 2: 1567761 to 1567778
+
+Score:33.7 bits(36), Expect:9.1, 
+Identities:18/18(100%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  28556    CGTGGTGGTGACGGTAAA  28573
+                ||||||||||||||||||
+Sbjct  1567761  CGTGGTGGTGACGGTAAA  1567778
+
+
+
+
+

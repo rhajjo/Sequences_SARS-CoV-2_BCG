@@ -1,0 +1,17 @@
+Query: Mycobacterium tuberculosis H37Rv, complete genome Query ID: NC_000962.3 Length: 4411532
+
+>Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/CHN/IQTC04/2020, complete genome
+Sequence ID: MT123292.2 Length: 29923 
+Range 1: 29873 to 29922
+
+Score:55.4 bits(60), Expect:0.025, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  1475821  TAAGGTAGCGAAATTCCTTGTCGGGTAAGTTCCGACCTGCACGAATGGCG  1475870
+                ||||||||||||||||||||||   ||| |   |||||||||||| ||||
+Sbjct  29873    TAAGGTAGCGAAATTCCTTGTCAACTAATTATTGACCTGCACGAAAGGCG  29922
+
+
+
+
+
